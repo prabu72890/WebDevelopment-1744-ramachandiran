@@ -1,0 +1,25 @@
+
+
+10 Heuristic Principles – Jakob Nielsen’s (Usability Heuristics)
+
+http://www.uxness.in/2015/02/10-heuristic-principles-jakob-nielsens.html
+
+https://www.nngroup.com/articles/visibility-system-status/#:~:text=Definition%
+3A%20The%20visibility%20of%20system,appropriate%20feedback%20within%20reasonable%20time.
+
+https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_form_checkbox
+
+https://www.youtube.com/watch?v=Cdgr2ja8PuA
+
+https://www.google.com/search?q=In+one+part+you+have+a+form+which+can+collect+u
+ser+testimonials+as+input+(Name,+age,+testimonial+and+other+related+informatio
+n)+and+send+it+to+the+server+to+save+them+in+the+database.&sxsrf=ALeKk00qZSi
+uN6yNopgdfoBBwUjut5aYnw:1591458384036&source=lnms&tbm=vid&sa=X&ved=2ahUKEwi
+G0p69xO3pAhXOdn0KHcKyBd4Q_AUoAXoECA0QAw&biw=1600&bih=756
+
+https://getbootstrap.com/docs/4.5/utilities/stretched-link/?
+
+https://dimsemenov.com/plugins/magnific-popup/
+
+file:///D:/proposal/resouse/Web%20Application%20Development%20-%20Guides
+,%20Resources%20&%20Best%20Practices.html
